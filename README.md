@@ -11,3 +11,6 @@ public class FirstNNumbers {
         }
     }
 }
+Output 
+The first 5 numbers are:
+1 2 3 4 5
